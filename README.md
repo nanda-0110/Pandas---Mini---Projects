@@ -137,3 +137,8 @@ Through this project I learned:
 - How to create meaningful insights from raw data
 - How to use Pandas for exploratory data analysis
 - How to structure a complete data analysis project
+## Acknowledgement
+
+This project was built as part of my learning journey in Pandas.
+
+I learned the concepts and completed the analysis by following the Pandas course from Codebasics and applying the concepts independently on this project.
